@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anbumani-Sekar
-- 👀 I’m interested in python
+- 👀 I’m interested in python,Java and create web applications
 - 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on python developer job
+- 💞️ I’m looking to collaborate on software developer job
 - 📫 How to reach me via email(sekaranbumani5@gmail.com)
 
 <!---
